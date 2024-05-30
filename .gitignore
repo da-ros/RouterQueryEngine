@@ -5,3 +5,4 @@ queenv
 .env
 ./env
 /.env
+__pycache__

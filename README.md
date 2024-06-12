@@ -8,7 +8,7 @@ To get started with this project, follow the setup instructions below.
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.12+
 - `wget` (for downloading the sample document)
 - `pip` (Python package installer)
 
